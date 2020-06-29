@@ -1,0 +1,3 @@
+nmigen @ git+https://github.com/nmigen/nmigen.git
+nmigen-boards @ git+https://github.com/alanvgreen/nmigen-boards.git
+attrs
